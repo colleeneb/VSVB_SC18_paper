@@ -1,5 +1,5 @@
 # VSVB_SC18_paper
-This is a public repository for structures in the SC18 VSVB paper
+This is a public repository for structures in the SC18 submission "Quantum Chemistry on a Million Processes"
 
 It contains VSVB inputs for:
 1. 64-atom LiF crystal structure 
