@@ -10,3 +10,7 @@ The input files contain structures, basis functions, and thresholds.
 Input files can be run after the VSVB executable is compiled by:
 
 $ ./vsvb-executable < vsvb_input_file
+
+Note about thresholds:
+
+In the second line of the input files, the numbers "9 9 8" denote that the charge-cloud screening tolerance is 10^-9, the density screening tolerance is 10^-9, and the Schwarz inequality screening tolerance is 10^-8. 
